@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scheduler: 2022-03-26
+  quantity: 1
+  value: 1.5
+  total: 1.5
+  company: one
+  people: one
+  comments: MyString
+
+two:
+  scheduler: 2022-03-26
+  quantity: 1
+  value: 1.5
+  total: 1.5
+  company: two
+  people: two
+  comments: MyString

@@ -1,0 +1,37 @@
+<p>
+  <strong>Scheduler:</strong>
+  <%= @order.scheduler %>
+</p>
+
+<p>
+  <strong>Quantity:</strong>
+  <%= @order.quantity %>
+</p>
+
+<p>
+  <strong>Value:</strong>
+  <%= @order.value %>
+</p>
+
+<p>
+  <strong>Total:</strong>
+  <%= @order.total %>
+</p>
+
+<p>
+  <strong>Company:</strong>
+  <%= @order.company %>
+</p>
+
+<p>
+  <strong>People:</strong>
+  <%= @order.people %>
+</p>
+
+<p>
+  <strong>Comments:</strong>
+  <%= @order.comments %>
+</p>
+
+<%= link_to 'Edit', edit_order_path(@order) %> |
+<%= link_to 'Back', orders_path %>

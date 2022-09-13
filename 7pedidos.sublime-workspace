@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"attr_accessor"
+			],
+			[
+				"attr_",
+				"attr_accessor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/ieconsultores/Railsapps/pedidos7/Gemfile",
+			"settings":
+			{
+				"buffer_size": 2231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\ngem"
+					},
+					"BAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAAAAAAAAAGsAAAAAAAAA////////738"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAG8AAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABvAAAAAAAAAG8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "ra"
+					},
+					"AgAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHEAAAAAAAAAcQAAAAAAAAABAAAAYXAAAAAAAAAAcAAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAByAAAAAAAAAHIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAHAAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "rails"
+					},
+					"BQAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAABzAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdQAAAAAAAAB2AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABxAAAAAAAAAHEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAHcAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB3AAAAAAAAAHcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAHgAAAAAAAAAegAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB4AAAAAAAAAHgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "7."
+					},
+					"AgAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB7AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5AAAAAAAAAHkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "0.0"
+					},
+					"AwAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB7AAAAAAAAAHsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAMEAAAAAAAAAwgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADBAAAAAAAAAMEAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					27,
+					1,
+					"cut",
+					null,
+					"AQAAAGwAAAAAAAAAbAAAAAAAAAATAAAAZ2VtICdyYWlscycsJzcuMC4wJw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB/AAAAAAAAAGwAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					28,
+					1,
+					"right_delete",
+					null,
+					"AQAAAGwAAAAAAAAAbAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAAAAAAAAAGwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANMAAAAAAAAA1AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADTAAAAAAAAANMAAAAAAAAA////////738"
+				],
+				[
+					32,
+					1,
+					"paste",
+					null,
+					"AQAAANQAAAAAAAAA5wAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADUAAAAAAAAANQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "3.1.2"
+					},
+					"BgAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABmAAAAAAAAAAUAAAAyLjcuMWYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGkAAAAAAAAAAAAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAAAAAAAAAGUAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ieconsultores/Railsapps/pedidos7"
+	],
+	"file_history":
+	[
+		"/home/ieconsultores/Railsapps/es/Gemfile",
+		"/home/ieconsultores/Railsapps/es/Gemfile.lock",
+		"/home/ieconsultores/Railsapps/es/config/application.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/spec/lib/main_spec.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/lib/score.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/lib/player.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/lib/main.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/lib/game.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/spec/fixtures/positive/perfect.txt",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/lib/frame.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/Gemfile",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/lib/bowlinggame.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/config/application.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/app.rb",
+		"/home/ieconsultores/Railsapps/tests/ruby-challenge-master/lib/main1.rb",
+		"/home/ieconsultores/Railsapps/wikilist/app.rb",
+		"/home/ieconsultores/Railsapps/wikilist/Gemfile",
+		"/home/ieconsultores/Railsapps/wikilist/sample.html",
+		"/home/ieconsultores/Railsapps/pedidos/app/assets/stylesheets/application.css",
+		"/home/ieconsultores/Railsapps/pedidos/app/views/layouts/application.html.erb",
+		"/home/ieconsultores/Railsapps/pedidos/config/environments/development.rb",
+		"/home/ieconsultores/Railsapps/pedidos/app/views/people/show.html.erb",
+		"/home/ieconsultores/Railsapps/pedidos/app/views/companies/show.html.erb",
+		"/home/ieconsultores/Railsapps/pedidos/app/views/orders/show.html.erb",
+		"/home/ieconsultores/Railsapps/pedidos/app/views/products/show.html.erb",
+		"/home/ieconsultores/Railsapps/pedidos/Gemfile.lock",
+		"/home/ieconsultores/Railsapps/pedidos/config/routes.rb",
+		"/home/ieconsultores/Railsapps/pedidos/app/controllers/companies_controller.rb",
+		"/home/ieconsultores/Railsapps/pedidos/app/views/companies/index.html.erb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/application_controller.rb",
+		"/home/ieconsultores/Railsapps/es/config/environments/development.rb",
+		"/home/ieconsultores/Railsapps/es/log/development.log~",
+		"/home/ieconsultores/Railsapps/es/app/controllers/articulos_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/Cambios en objetos para que incluya autenticació_",
+		"/home/ieconsultores/Railsapps/es/app/controllers/canals_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/ciudads_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/componentes_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/compras_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/conteos_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/departamentos_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/einvoices_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/empresas_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/equipos_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/fabricantes_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/inkardexes_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/inventarios_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/medidas_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/modelos_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/outkardexes_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/pais_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/personas_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/planvisita_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/puntoventa_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/regions_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/roles_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/saledetails_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/saleheaders_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/tiendas_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/tipocanals_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/users_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/venta_controller.rb",
+		"/home/ieconsultores/Railsapps/es/app/controllers/visita_controller.rb",
+		"/home/ieconsultores/Railsapps/es/config/database.yml",
+		"/home/ieconsultores/Railsapps/es/Gemfile__.lock"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"actiion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/ieconsultores/Railsapps/pedidos7/Gemfile",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "7pedidos.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
